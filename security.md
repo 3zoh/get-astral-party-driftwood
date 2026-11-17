@@ -202,4 +202,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Astral Party · Updated 2026-11-15 · Shared under the MIT License*
+*Astral Party · Updated 2026-11-17 · Shared under the MIT License*
