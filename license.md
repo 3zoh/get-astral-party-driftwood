@@ -202,6 +202,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Astral Party · Updated 2026-11-20 · Shared under the MIT License*
+*Astral Party · Updated 2026-11-21 · Shared under the MIT License*
 
-<!-- rev 2026-11-20 -->
+<!-- rev 2026-11-21 -->
